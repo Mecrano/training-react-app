@@ -1,0 +1,5 @@
+{
+  "saludo": {
+    "component": "Greeting"
+  }
+}
